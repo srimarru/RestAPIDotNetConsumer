@@ -1,0 +1,13 @@
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/bin/Debug/netcoreapp3.1/RestAPIConsumer.deps.json
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/bin/Debug/netcoreapp3.1/RestAPIConsumer.runtimeconfig.json
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/bin/Debug/netcoreapp3.1/RestAPIConsumer.runtimeconfig.dev.json
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/bin/Debug/netcoreapp3.1/RestAPIConsumer.dll
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/bin/Debug/netcoreapp3.1/RestAPIConsumer.pdb
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/obj/Debug/netcoreapp3.1/RestAPIConsumer.csproj.AssemblyReference.cache
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/obj/Debug/netcoreapp3.1/RestAPIConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/obj/Debug/netcoreapp3.1/RestAPIConsumer.AssemblyInfoInputs.cache
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/obj/Debug/netcoreapp3.1/RestAPIConsumer.AssemblyInfo.cs
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/obj/Debug/netcoreapp3.1/RestAPIConsumer.csproj.CoreCompileInputs.cache
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/obj/Debug/netcoreapp3.1/RestAPIConsumer.dll
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/obj/Debug/netcoreapp3.1/RestAPIConsumer.pdb
+/Users/srilatha/Projects/RestAPIConsumer/RestAPIConsumer/obj/Debug/netcoreapp3.1/RestAPIConsumer.genruntimeconfig.cache

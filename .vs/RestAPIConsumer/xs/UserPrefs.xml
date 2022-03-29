@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FC469A55-A61C-4492-B6F5-4E67D0EDC5C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestAPIConsumer/Program.cs">
+    <Files>
+      <File FileName="RestAPIConsumer/Program.cs" Line="51" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestAPIConsumer" expanded="True">
+            <Node name="RestAPIConsumer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RestAPIConsumer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
